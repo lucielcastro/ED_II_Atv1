@@ -19,7 +19,7 @@ int main(){
      }
 
      float dm = m*10;//transformando metros em decimetros
-     float cm = m*100;//transformando metros em cimetros
+     float cm = m*100;//transformando metros em centimetros
      float mm = m*1000;//transformando metros em milimetros
 
      printf("\n\t%.2f m = %.2f dm\n\t%.2f m = %.2f cm\n\t%.2f m = %.2f mm\n",m ,dm ,m ,cm ,m ,mm );
